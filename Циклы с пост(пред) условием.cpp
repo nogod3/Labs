@@ -4,10 +4,13 @@
 *  https://onlinegdb.com/4FYN6BaoM        *
 *  https://onlinegdb.com/NKOWQNRg0v       *
 ******************************************/
+
 #include <iostream>
 #include <iomanip>
 #include <cmath>
+
 using namespace std;
+
 int main() {
   double w0;
   double w = 10;
